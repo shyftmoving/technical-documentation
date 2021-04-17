@@ -1,5 +1,3 @@
-# Branching strategy
-
 ## GitFlow
 
 GitFlow is a process that has many shapes and understandings. A nice explanation is defined by Atlassian here, so I suggest going there and reading that stuff.

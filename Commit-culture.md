@@ -1,5 +1,3 @@
-# Commit culture
-
 During the development by focusing too much on the implementation we lose the sense of the  the time. It happens that the commit and push operations do not happen for a longer (read: hours) period of time.
 
 We should commit and push often during the day, as your colleague, team lead or someone else might want to take a peek into the current progress, not to mention the possibility of loosing the local data due to many hardware and software reasons. 

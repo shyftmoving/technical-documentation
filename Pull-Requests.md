@@ -1,5 +1,3 @@
-# Pull Request
-
 Pull request is nothing but the request for someone else in the team to merge the changes from one branch into another.  
 `dev` and `master/main` branches are protected from direct pushes. Therefore, every change on these branches has to happen through the pull request.
 

@@ -1,5 +1,3 @@
-# BDD
-
 ## Introduction
 
 Behavior Driven Development is a process where we define the behavior of a feature we're implementing. 
