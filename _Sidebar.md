@@ -1,2 +1,26 @@
-* Page
-   * Subpage
+* [Shyft Development Culture]()
+
+* ### [Guidelines]()
+   * [Q&A]()
+   * [Branching strategy]()
+   * [Commit culture]()
+   * [Deployment strategy]()
+* ### [Processes]()
+   * [BDD]()
+   * [New feature]()
+   * [Production bug]()
+   * [Are you blocked?]()
+   * [Releasing new version]()
+* ### [Codebase]()
+   * [Pull request]()
+   * [Code Review]()
+   * [Code style]()
+   * [Static analysis]()
+* ### [Testing]()
+   * [How to QA]()
+   * [AutoQA]()
+* ### [DevOps]()
+   * [Defining a ticket]()
+   * [AWS]()
+   * [Azure]()
+   
