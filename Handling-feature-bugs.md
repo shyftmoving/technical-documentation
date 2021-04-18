@@ -4,4 +4,4 @@ The procedure, for fixing the bug on a new feature does not differ from work on 
 1. Do you have a bug ticket assigned to you?
     - `YES` - Go to step 2.
     - `NO` - Ask for QA team member to create a bug ticket for you.
-2. Proceed with [these steps](https://github.com/shyftmoving/technical-documentation/wiki/Working-on-a-new-feature).
+2. Proceed with [these steps](Working-on-a-new-feature).

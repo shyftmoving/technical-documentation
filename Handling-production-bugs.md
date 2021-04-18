@@ -17,4 +17,4 @@ Here are the initial steps to make:
 7. Tag the latest commit on `hotfix` branch with next version number. Do you need help with versioning? Check how we do versioning of our product [here]().
 8. Once the merge from `hotfix` to `master/main` is completed, merge the `master/main` to `development` and delete the `hotfix` branch.
 
-[![image alt text](https://github.com/shyftmoving/technical-documentation/wiki/assets/handling-production-bugs.png)](https://drive.google.com/file/d/1JYEgrefsZyRTPZaqozM26SPz2qLGUqEt/view?usp=sharing)
+[![image alt text](assets/handling-production-bugs.png)](https://drive.google.com/file/d/1JYEgrefsZyRTPZaqozM26SPz2qLGUqEt/view?usp=sharing)

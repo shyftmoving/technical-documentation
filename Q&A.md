@@ -1,14 +1,14 @@
 # I am a developer
 
-[I need to start working on a new feature](https://github.com/shyftmoving/technical-documentation/wiki/Working-on-a-new-feature) 
+[I need to start working on a new feature](Working-on-a-new-feature) 
 
-[I am blocked by someone else or something](https://github.com/shyftmoving/technical-documentation/wiki/Blocked-status)
+[I am blocked by someone else or something](Blocked-status)
 
-[I would like to know what are the commit rules.](https://github.com/shyftmoving/technical-documentation/wiki/Commit-culture)
+[I would like to know what are the commit rules.](Commit-culture)
 
 [I have completed my work on a new feature]()
 
-[I have a new bug assigned to me](https://github.com/shyftmoving/technical-documentation/wiki/Working-on-a-new-bug) 
+[I have a new bug assigned to me](Working-on-a-new-bug) 
 
 # I am QA member
 

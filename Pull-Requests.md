@@ -3,7 +3,7 @@ Pull request is nothing but the request for someone else in the team to merge th
 
 ### When do we create a pull request?
 
-- If we want to consult with other colleagues, we can create a [draft pull requests.](https://github.com/shyftmoving/technical-documentation/wiki/Draft-pull-requests) on Github to discuss the implementation prior official pull request.
+- If we want to consult with other colleagues, we can create a [draft pull requests.](Draft-pull-requests) on Github to discuss the implementation prior official pull request.
 - when we are done with implementation, we create a pull request from our `feature/SP-123` into the `development`
 - when we are done with the bugfix, we create a pull request from our `hotfix/minor-issue` into the `master/main`
 - when we are about to release a new version into production, we create a pull request from our `release/feature-001` branch into the `master/main`.
