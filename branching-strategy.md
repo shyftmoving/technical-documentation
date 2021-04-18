@@ -26,7 +26,7 @@ When the implementation on new task is started, a developer has to create a feat
 
 - make sure that the `development` branch is up-to-date with its remote counterpart
 - naming convention: `feature/JIRA_TICKET_ID`.  
-Example: `feature/SP-123` where `SP-123 is the ide of the ticket in Jira, a developer started to work on.
+Example: `feature/SP-123` where `SP-123` is the id of the ticket in Jira, a developer started to work on.
 - do the implementation and sync often with the `development` branch.
 
 ## release branches
