@@ -1,7 +1,7 @@
 * [Shyft Development Culture]()
 
 * ### Guidelines
-   * [Q&A](Q&A)
+   * [FAQ](FAQ)
    * [Branching strategy](Branching-strategy)
    * [Commit culture](Commit-culture)
    * [Deployment strategy](Deployment-strategy)

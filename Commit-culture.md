@@ -9,6 +9,7 @@ Even by doing the commits and pushes often during the day, we have to pay attent
 - Commit and push often
 - Start your commit message with Jira ticket id, as Github will recognize and link the Jira ticket, which helps in navigating between the ticket and the commit.  
 Example: `SP-123 Some description`.
+- Limit commit subject to 72 characters.
 - Define commit subject as concise and descriptive like: `SP-123 OpenID identity server integration`
 - If you think that the 10 commits you already made could look better in the commit history, feel free to squash these commits into a single commit with proper subject.
 - Define commit message with detailed description if necessary.  

@@ -1,4 +1,4 @@
-# I am a developer
+## I am a developer
 
 [I need to start working on a new feature](Working-on-a-new-feature) 
 
@@ -10,7 +10,7 @@
 
 [I have a new bug assigned to me](Working-on-a-new-bug) 
 
-# I am QA member
+## I am QA member
 
 [I have a new feature to test]() 
 
@@ -18,14 +18,14 @@
 
 [Sprint ends, what should I do?]() 
 
-# I am a release manager
+## I am a release manager
 
 [What should I do?]() 
 
-# Sprint is starting
+## Sprint is starting
 
 [What is going to happen?]()
 
-# Sprint is ending
+## Sprint is ending
 
 [What is going to happen?]()

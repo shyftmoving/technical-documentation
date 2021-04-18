@@ -54,15 +54,15 @@ By looking at the flow that has been defined for Shyft - [Product Flow](https://
 - Tech design
 - Hand off
 
-### Kick off
+## Kick off
 
 Is when product owner/manager presents the feature to engineering
 
-### Tech design
+## Tech design
 
 Is when project management and engineering team is working on technical specifications definitions for the given feature, create sub tickets for backend, frontend, android, iOS .. and define a technical specification like HLA architecture, sequence diagrams, API specification etc.
 
-### Hand off
+## Hand off
 
 Is when all specifications are completed and the feature is ready to be rolled into the planning an being prioritized. After this, the feature should be ready for the development.
 
@@ -86,7 +86,7 @@ In development process, we differentiate two moments related to BDD.
 1. When development team do the implementaiton
 2. When QA team do the testing
 
-### Using BDD during feature implementation
+## Using BDD during feature implementation
 
 Once the developer gets the ticket for the implementation, BDD specification already should be the part of the feature that ticket belongs to. In order to do the implementation properly, a developer should:
 
@@ -103,7 +103,7 @@ Once the developer gets the ticket for the implementation, BDD specification alr
 
 3. Once the implementation and the testing are completed, the developer has to go through the implementation manually and validate that the implementation is in line with the BDD specification.
 
-### Using BDD during QA
+## Using BDD during QA
 
 Ideally, when the feature goes to QA phase, it should be treated:
 
@@ -116,6 +116,6 @@ Therefore, QA team will start with the implementation of the automated tests, ba
 
 However, at the moment we are not in a position of automating the BDD and we will skip the automation step of the QA consciously, building the technical debt and going back to it, once we boost the QA team numbers and experience.
 
-### BDD as regression test
+## BDD as regression test
 
 Once the feature is deployed and closed, BDD once as a specification now is a regression test which runs on a recurring basis or when required, but provide a strong confidence into the proper functioning of the feature, for a long time.

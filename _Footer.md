@@ -1,1 +1,1 @@
-Are you getting lost? Start over from [Q&A](Q&A).
+Are you getting lost? Start over from [FAQ](FAQ).
