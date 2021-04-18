@@ -4,11 +4,11 @@
 
 [I am developer and I need to start working on a new feature](https://github.com/shyftmoving/technical-documentation/wiki/Working-on-a-new-feature) 
 
-[I am developer and I am blocked by someone else or something](https://github.com/shyftmoving/technical-documentation/wiki/Blocked-status)
+[I am developer and I am blocked by someone else or something](https://github.com/shyftmoving/technical-documentation/wiki/Blocked-status)  
 
 [I am developer and I have completed my work on a new feature]()
 
-[I am developer and I have a new bug assigned to me]() 
+[I am developer and I have a new bug assigned to me](https://github.com/shyftmoving/technical-documentation/wiki/Working-on-a-new-bug) 
 
 # I am QA member
 
