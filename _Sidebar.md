@@ -8,7 +8,7 @@
 * ### Processes
    * [BDD](https://github.com/shyftmoving/technical-documentation/wiki/BDD)
    * [Working on a new feature](https://github.com/shyftmoving/technical-documentation/wiki/Working-on-a-new-feature)
-   * [Production bug]()
+   * [Working on a new bug](https://github.com/shyftmoving/technical-documentation/wiki/Working-on-a-new-bug)
    * [Are you blocked?](https://github.com/shyftmoving/technical-documentation/wiki/Blocked-status)
    * [Releasing new version]()
 * ### Codebase
