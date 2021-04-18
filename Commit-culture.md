@@ -19,8 +19,8 @@ Example: `SP-123 Some description`.
 
 ### Don't
 
-- Avoid working on a feature and making a commit once you're done
-- Define the subject like *`fix`, `almost there`, `try2`,* etc as this pollutes the commit history of the project and it is quite hard to go back to cherry-pick specific commit if necessary.
+- Avoid working on a feature and making a commit once you're done.
+- Defining the uninformative subject like * `almost there`, `try2`,* etc  pollutes the commit history of the project and it is quite hard to go back to cherry-pick specific commit if necessary.
 - Define the subject without knowing what has been worked on like `*Finished implementation*`
-- Put the whole description into the subject. 
+- Put the whole description into the subject.
 - Commit without a push. If you specifically plan to separate changes into multiple commits and then to push the changes, that's fine. Otherwise, commit and push should go along all the time.
