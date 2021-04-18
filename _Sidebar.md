@@ -10,7 +10,7 @@
    * [Working on a new feature](Working-on-a-new-feature)
    * [Working on a new bug](Working-on-a-new-bug)
    * [Are you blocked?](Blocked-status)
-   * [Releasing new version]()
+   * [Releasing new version to production](Releasing-to-production-environment)
 * ### Codebase
    * [Pull requests](Pull-Requests)
    * [Code Review](Code-review)

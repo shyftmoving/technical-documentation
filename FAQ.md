@@ -24,7 +24,13 @@
 
 ## I am a release manager
 
-[What should I do?]() 
+[What is our deployment strategy?](Deployment-strategy)
+
+[How do I release something to staging?](Releasing-to-staging-environment)
+
+[How do I release something to demo?](Releasing-to-demo-environment)
+
+[How do I release something to production?](Releasing-to-production-environment)
 
 ## Sprint is starting
 

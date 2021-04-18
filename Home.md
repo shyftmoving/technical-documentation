@@ -7,9 +7,11 @@ Currently completed sections are:
    * [Branching strategy](Branching-strategy)
    * [Working on a new feature](Working-on-a-new-feature)
    * [Working on a new bug](Working-on-a-new-bug)
+   * [Blocked status](Blocked-status)
+   * [BDD](BDD)
    * [Commit culture](commit-culture)
    * [Draft pull requests](Draft-pull-requests)
    * [Pull requests](Pull-Requests)
    * [Code review](Code-review)
-   * [Blocked status](Blocked-status)
-   * [BDD](BDD)
+   * [Deployment strategy](Deployment-strategy)
+   
