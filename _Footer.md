@@ -1,0 +1,1 @@
+Are you getting lost? Start over from [Q&A](https://github.com/shyftmoving/technical-documentation/wiki/Q&A).
