@@ -11,6 +11,11 @@ Even by doing the commits and pushes often during the day, we have to pay attent
 Example: `SP-123 Some description`.
 - Limit commit subject to 72 characters.
 - Define commit subject as concise and descriptive like: `SP-123 OpenID identity server integration`
+- Use the imperative, present tense in commit messages.
+```
+Do: SP-123 Add Banji with animation
+Don't: SP-123 Added Banji ... (past tense)
+```
 - If you think that the 10 commits you already made could look better in the commit history, feel free to squash these commits into a single commit with proper subject.
 - Define commit message with detailed description if necessary.  
 
