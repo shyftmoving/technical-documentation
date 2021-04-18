@@ -46,7 +46,10 @@ The same rules apply to this repository as to every other in Shyft. To start, ch
 2. Double check if everything is ok by self-reviewing the pull request.
 3. Merge the pull request.
 4. `git fetch`
-5. `git checkout main
+5. `git checkout main` (where `main` is branch on `technical-documentation`repository)
 6. `git pull`
-7. `git checkout master`
-8. `git merge main`
+7. `git checkout master` (where `master` is branch on `technical-documentation.wiki`repository)
+8. `git merge main` (merging content from repo to wiki.repo)
+9. `git push`
+
+By pushing content to `master` branch of wiki repo, Github automatically renders the Wiki pages and the content should be live instantly.
