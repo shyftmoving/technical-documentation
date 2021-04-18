@@ -1,14 +1,18 @@
 ## I am a developer
 
-[I need to start working on a new feature](Working-on-a-new-feature) 
+[I need to start working on a new feature. What should I pay attention to?](Working-on-a-new-feature) 
 
-[I am blocked by someone else or something](Blocked-status)
+[I am blocked by someone else or something. Help.](Blocked-status)
 
 [I would like to know what are the commit rules.](Commit-culture)
 
-[I have completed my work on a new feature]()
+[I have completed my work on a new feature... I think.]()
 
-[I have a new bug assigned to me](Working-on-a-new-bug) 
+[I am getting comments on a pull requests. Is this normal?](Code-review)
+
+[I have a new bug assigned to me. Where do I start?](Working-on-a-new-bug) 
+
+[I am assigned on a pull request for a review. Now what?](Code-review)
 
 ## I am QA member
 
