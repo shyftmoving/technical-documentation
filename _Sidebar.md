@@ -1,4 +1,4 @@
-* [Shyft Development Culture]()
+* [Shyft Development Culture](Home)
 
 * ### Guidelines
    * [FAQ](FAQ)
