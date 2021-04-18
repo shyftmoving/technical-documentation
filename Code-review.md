@@ -29,12 +29,11 @@ As code review is important, and very useful, it is also very fragile. Therefore
 Our colleagues in the team, as we are as well, are often personally attached to the code they wrote. That turns out to be the biggest obstacle in the code review process as drawing attention to the flaws in the implementation can be understood as an attack to them personally and their knowledge.  
 If that's the case, the discussion won't be objective and there is no guarantee that we will get a useful outcome out of the review process.  
 
-To avoid such a situation, let's try to follow a couple of simple steps:
+To avoid such situation, let's try to follow a couple of simple steps:
 1. If you are a reviewer, start your review with the positive attitude in mind.
     - You are not searching for flaws only.
-    - You are looking for awesome stuff to praise, because it is awesome and you know it. Then say it.
-        - _Wow, I didn't knew this is possible, good job! Do you have any links for me to read in details? Thanks!_
-2. If the code you wrote is being reviewed, be aware that the review process is not about you, or your knowledge, but about the code we're pushing into our product. 
+    - You are looking for awesome stuff to praise also. Don't forget that.
+2. If the code you wrote is being reviewed, be aware that the review process is not about you, or your knowledge, but about the code we're pushing into our product we build together. We all want to make sure its as perfect as possible.
 3. If the code you wrote is being reviewed, approach to it as a third person. You will be happy if you and your colleague figure out a newly introduced bug, because that's one less bug being discovered by QA, or user in the worst case.
 4. Don't start an argument. If there are four or more replies on a single comment, that's a pretty good sign that you're on a slippery slope and wasting time on a conversation. You need a third opinion and get over it.
 5. Avoid negative criticism. Come up with a suggestion instead and encourage a colleague to think of solution
@@ -46,12 +45,12 @@ To avoid such a situation, let's try to follow a couple of simple steps:
     - You found something awesome? Then say it!
         - _Wow, I didn't knew this is possible, good job! Do you have any links for me to read in details? Thanks!_
     - Its ok to nitpick, however make it obvious to everyone by putting `nit`.
-        - _nit: Can we remove this newline please. Maybe its my OCD, and maybe we need a new rule for StyleCop?. :)_
+        - _nit: Can we remove this newline please. Maybe its my OCD, and maybe we need a new rule for StyleCop? :)_
         - _nit: I think brackets will increase the readability here?_
     - Be friendly when things aren't looking good. Make it obvious that you found a major flaw, but you have a trust it'll be fixed.
         - _Hey you probably skipped authorization on this admin endpoint._
         - _Hm, it looks like we're missing a database transaction here. It will most probably work in 99% of cases, but we want to make sure of atomic operation in this case._
-        - _Usually ternarry operator helps in shortening the lines count, however I think that the complexity of this statement should be broken down into simple `if-else` to increase the readability a bit._
+        - _Usually ternarry operator helps in shortening the lines count, however I think that the complexity of this statement should be broken down into simple `if-else` to increase the readability a bit. Not sure tho, what do you think?_
     ### Don't
     - We are not in a position to order something to anyone.
         - _"Fix this"_ or a polite version _"Fix this, please."_ isn't useful.
@@ -65,3 +64,6 @@ To avoid such a situation, let's try to follow a couple of simple steps:
         - Pasting a link to documentation for beginners.
         - _In the documentation this is specifically noted not to do._
         - _Are you fu**ing serious!? People are getting fired for stuff like this!_
+    
+## Don't wait
+Is there something else happening in the code review? Call your manager and ask for an advice.
