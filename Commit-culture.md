@@ -17,6 +17,11 @@ Do: SP-123 Add Banji with animation
 Don't: SP-123 Added Banji ... (past tense)
 ```
 - If you think that the 10 commits you already made could look better in the commit history, feel free to squash these commits into a single commit with proper subject.
+- Capitalize the subject line.
+```
+Do: SP-123 Fix title
+Don't: SP-123 fix title (started with lower case)
+```
 - Define commit message with detailed description if necessary.  
 
     Console example:  
