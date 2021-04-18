@@ -10,5 +10,6 @@ Currently completed sections are:
    * [Commit culture](commit-culture)
    * [Draft pull requests](Draft-pull-requests)
    * [Pull requests](Pull-Requests)
+   * [Code review](Code-review)
    * [Blocked status](Blocked-status)
    * [BDD](BDD)
