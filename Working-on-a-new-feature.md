@@ -26,4 +26,4 @@ You are a developer and a new ticket has been assigned to you? A common drill lo
 10. Assign the person responsible for code review to the ticket. If the pull request requires multiple approvals, assign the project lead.
 11. Pull request is merged? Continue reading [here]() then.
 
-![image alt text](https://example.com/link-to-image)
+[![image alt text](https://github.com/shyftmoving/technical-documentation/wiki/assets/working-on-a-new-feature.png)](https://drive.google.com/file/d/1MADnq-D8APOZY77jbMprm0HmF2NMaFe5/view?usp=sharing)
