@@ -30,5 +30,21 @@ If you have a desire to write a document on your own, feel free to make a contri
       * [Releasing to demo environment](Releasing-to-demo-environment)
       * [Releasing to production environment](Releasing-to-production-environment)
    * [Handling production bugs](Handling-production-bugs)
+
+## Are we ready for this?
+
+Well, sort of. We're still missing an environment set up to support the release procedure, but we'll be there soon.
+
+## What should we apply in our process as of this moment?
+
+Here is the list:
+   * [Working on a new feature](Working-on-a-new-feature)
+   * [Working on a new bug](Working-on-a-new-bug)
+   * [Blocked status](Blocked-status)
+   * [BDD](BDD)
+   * [Commit culture](commit-culture)
+   * [Draft pull requests](Draft-pull-requests)
+   * [Pull requests](Pull-Requests)
+   * [Code review](Code-review)
 ___
 Or you might wanna start from [FAQ](FAQ) :).
