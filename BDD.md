@@ -50,23 +50,23 @@ Generally, the BDD discovery and formulation phase should happen as earliest as 
 
 By looking at the flow that has been defined for Shyft - [Product Flow](https://www.notion.so/Product-Flow-5c2212fff181418cb73b3992f636e8c9) we can clearly see three major events before the feature goes into development, that is:
 
-- Kick off
+- Backlog refinement
 - Tech design
-- Hand off
+- Sprint planning
 
-## Kick off
+## Backlog refinement
 
-Is when product owner/manager presents the feature to engineering
+This is when the product owner/manager presents the feature to engineering. It's when the prioritization and rough estimate of the user story happens. 
 
 ## Tech design
 
-Is when project management and engineering team is working on technical specifications definitions for the given feature, create sub tickets for backend, frontend, android, iOS .. and define a technical specification like HLA architecture, sequence diagrams, API specification etc.
+Is when the project management and engineering team is working on technical specifications definitions for the given feature, create sub tickets for backend, frontend, android, iOS, and define a technical specification like HLA architecture, sequence diagrams, API specification, etc.
 
-## Hand off
+## Sprint planning
 
-Is when all specifications are completed and the feature is ready to be rolled into the planning an being prioritized. After this, the feature should be ready for the development.
+Is when all specifications are completed and the user story is ready to be rolled into the planning an being prioritized. After this, the user story should be ready for development.
 
-By shortly explaining each of these events, we have to decide at what point the BDD discovery phase should kick in. Generally, a Kick-off meeting is something that by its definition is the same as a Discovery meeting from the BDD process. Therefore, some of the possible scenarios will be presented by the product owner during the kick-off meeting.
+By shortly explaining each of these events, we have to decide at what point the BDD discovery phase should kick in. Generally, a backlog refinement meeting is something that by its definition is the same as a Discovery meeting from the BDD process. Therefore, some of the possible scenarios will be presented by the product owner during the kick-off meeting.
 
 ## ‼️ BDD discovery
 
@@ -75,8 +75,8 @@ Is an additional step that should happen between Kick off and the Tech design ph
 During the BDD discovery, a project lead should do the following:
 
 1. Define a list of possible scenarios, without going into the scenario definition
-2. Communicate with the product owner and QA the list of scenarios (verbally or non-verbally), to verify that the suggested scenarios are in-line with how product sees the feature working and how QA see the corner cases.
-3. Once the list of scenarios is verified and approved, these scenarios should be defined in Gherkin form. These scenarios have to be placed into the repository created for the product we are currently working on and linked as GitHub URLs into the feature tickets in Notion.
+2. Communicate with the product owner and QA the list of scenarios (verbally or non-verbally), to verify that the suggested scenarios are in-line with how the product sees the feature working and how QA see the corner cases.
+3. Once the list of scenarios is verified and approved, these scenarios should be defined in Gherkin form. These scenarios have to be placed into the repository created for the product we are currently working on. Feature files from Github repository has to be linked as GitHub URLs in user story.
 4. Upon scenario completion, the product owner and QA should be notified to verify and approve the validity of these scenarios. If everything is ok, the next stage, which is "Tech design" can start.
 
 ## How BDD fits into the development process in Shyft
