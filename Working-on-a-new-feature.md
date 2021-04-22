@@ -1,7 +1,7 @@
 You are a developer and a new ticket has been assigned to you? A common drill looks like this.  
 
 1. Make sure that you have pulled the latest changes on `development` branch.
-2. Create a branch with the following naming convention: `feature/SP-123`, where `SP-123` is the id of the Jira ticket assigned to you.
+2. Create a branch with the following naming convention: `feature/SP-123-description`, where `SP-123` is the id of the Jira ticket assigned to you.
 3. Once the branch is created, move the ticket from `TO DO` to `IN PROGRESS`.
 4. Development is in progress
 5. Do you have to commit something? Here are the [commit rules.](Commit-culture) we follow.
@@ -16,7 +16,7 @@ You are a developer and a new ticket has been assigned to you? A common drill lo
     - Integration tests are written.
     - All tests are passing locally.
     - Make sure that the implementation is tested manually.
-9. Create a pull request from `feature/SP-123` to `development` branch.
+9. Create a pull request from `feature/SP-123-description` to `development` branch.
 10. Once the pull request is created, the build pipeline for the pull request will start. Once its completed, make sure that:
     - All tests are passing.
     - There are no code style warnings.

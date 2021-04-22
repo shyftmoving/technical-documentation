@@ -14,7 +14,7 @@
 
 [I am assigned on a pull request for a review. Now what?](Code-review)
 
-## I am QA member
+## I am a QA member
 
 [I have a new feature to test]() 
 

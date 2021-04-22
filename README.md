@@ -27,7 +27,7 @@ To clone the technical documentation repo and wiki repo, follow these steps:
 6. `git checkout development`
 
 #### Extras
-7. `git checkout -b feature/ISSUE_ID`
+7. `git checkout -b feature/ISSUE_ID-description`
 
 As of this moment, you should be able to contribute to this project.
 
@@ -37,7 +37,7 @@ As of this moment, you should be able to contribute to this project.
 The same rules apply to this repository as to every other in Shyft. To start, check out the [branching strategy](https://github.com/shyftmoving/technical-documentation/wiki/Branching-strategy).
 
 1. Create an issue on this repo, describing what are you trying to accomplish.
-2. Create a `feature/ISSUE_ID` branch and push your changes to it.
+2. Create a `feature/ISSUE_ID-description` branch and push your changes to it.
 3. Create a pull request from your `feature` branch to `development` branch.
 5. Once the pull request is approved, the following steps has to be taken, to deploy content to wiki:
 

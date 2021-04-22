@@ -25,8 +25,8 @@ The `development` branch is de-facto the main branch for the development process
 When the implementation on new task is started, a developer has to create a feature branch to work on it. Such branch is branched from the `development` branch, having the following recommendations in mind:
 
 - make sure that the `development` branch is up-to-date with its remote counterpart
-- naming convention: `feature/JIRA_TICKET_ID`.  
-Example: `feature/SP-123` where `SP-123` is the id of the ticket in Jira, a developer started to work on.
+- naming convention: `feature/JIRA_TICKET_ID-description`.  
+Example: `feature/SP-123-user-login` where `SP-123` is the id of the ticket in Jira, a developer started to work on.
 - do the implementation and sync often with the `development` branch.
 
 ## release branches
