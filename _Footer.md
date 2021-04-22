@@ -1,0 +1,1 @@
+Are you getting lost? Start over from [FAQ](FAQ).
